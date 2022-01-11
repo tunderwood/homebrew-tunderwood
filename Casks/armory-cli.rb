@@ -4,7 +4,7 @@ cask "armory-cli" do
 
   url "https://github.com/armory-io/armory-cli/releases/download/v0.11.7/armory-darwin-amd64"
   name "Armory CLI"
-  desc "The CLI for Armory Cloud"
+  desc "CLI for Armory Cloud"
   homepage "https://www.armory.io/"
 
   binary "armory-darwin-amd64", target: "armory"
